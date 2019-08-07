@@ -1,0 +1,143 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    width: 1000px;
+    margin: 0 auto;
+}
+.card{
+    width: 100%;
+    height: 80%;
+    color: white;
+    text-align: center;
+    font-size: 2.8rem;
+    position: relative;
+
+}
+
+.cardLogo{
+    width: 40%;
+    margin: 100px auto;
+}
+
+.card-img-bottom{
+    position: absolute;
+    width: 40%;
+    bottom: 0.01em;
+    right: 0.01em;
+
+}
+
+.navbar {
+    width: 81%;
+    background-color: rgba(	130, 130, 130, 0.5);
+    margin: 0 auto;
+
+}
+
+
+.navbarMenu{
+margin-left : 300px;
+    padding-top: 10px;
+}
+
+.navbarMenu li{
+
+    display: inline-block;
+    text-transform: uppercase;
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 20px;
+
+}
+
+.btn{
+    font-size: 1.6rem;
+    margin-right: 200px;
+}
+.card2{
+    width: 40%;
+    margin: 0 auto;
+    color: black;
+    font-size: 2.6rem;
+}
+.card-text2{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.entree{
+    width: 100%;
+}
+.card-text3{
+    text-align: justify;
+    font-size: 1.2rem;
+}
+.card-text4{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.btn2{
+    display: block;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    margin: auto;
+
+}
+
+.col{
+    margin: 10px;
+}
+
+.col-md-4 h2{
+    text-transform: uppercase;
+
+}
+.fa-bus{
+    padding: 5px;
+}
+
+.partenaires{
+    width: 60%;
+    margin: 5px auto;
+}
+
+.partenaires h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 2px;
+}
+
+.partenaires img{
+    display: inline-block;
+    text-align: center;
+    margin-left: 60px;
+    width: 60px;
+}
+
+.container a{
+    display: block;
+}
+
+
+.gauche{
+    padding: 40px;
+
+}
+
+.droite{
+    padding: 10px;
+    text-align: right;
+}
+
+.fondnoir{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+.fondblanc{
+    color: white;
+}
+
+
